@@ -1,0 +1,16 @@
+*.class
+bin/
+.DS_Store
+.classpath
+.project
+.settings/
+*.jar
+*.log
+*.db
+~$*
+.vscode/
+.idea/
+*.iml
+target/
+*.war
+*.ear
